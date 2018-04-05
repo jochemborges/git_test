@@ -2,4 +2,6 @@ initial commit
 
 change 1
 change 2
+branch 2
+change 1
 
